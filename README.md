@@ -46,7 +46,7 @@ solutions, aspiring to make a career in software engineering with a focus on ful
 <h2 align="center">🎯 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/manishkmr1234/real-estate-catalog">
+  <a href="https://github.com/manishkmr91234/RealEstate-Project">
     <img src="https://img.shields.io/badge/🍽️%20RealEstate-A%20real%20estate%20website%20with%20Buying%20 And Selling Property-FF00FF?style=for-the-badge&labelColor=0D1117&logoColor=white" alt="RealEstae" />
   </a>
   &nbsp;&nbsp;
